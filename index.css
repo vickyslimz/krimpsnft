@@ -100,8 +100,8 @@ button{
     
     .main-title img{
     
-        width:calc(90 * var(--res));;
-        height: 80px;
+        width:calc(60 * var(--res));;
+        height: 40px;
     
     }
     
